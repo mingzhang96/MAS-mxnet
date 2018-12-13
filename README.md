@@ -27,7 +27,7 @@ python train_mnist.py
 
 *we use mlp instead of AlexNet as our base model.*
 
-**
+**notice: we use model trained on last task to test other tasks.**
 
 #### 100 epoch, update_lr = 0.05, train_lr = 0.05
 
