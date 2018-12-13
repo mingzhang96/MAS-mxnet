@@ -9,6 +9,10 @@ This is an implement of MAS on MXNet.
 * standard setup and training on several task.
 * finally calculate accuracy on each task.
 
+## environment
+* mxnet-cu80 on version 1.1.0.post0
+* python 2.7
+
 ## how to use
 
 1. clone the project
