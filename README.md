@@ -18,7 +18,7 @@ $ cd MAS-mxnet
 $ mkdir ckpt && mkdir data && mkdir reg_params
 ```
 
-2. We assume that you are in the $MAS-mxnet directory, and in $MAS-mxnet/data the mnist (.gz) data stays there.
+2. We assume that you are in the `$MAS-mxnet` directory, and in $MAS-mxnet/data the mnist (`.gz`) data stays there.
 ```shell
 python train_mnist.py
 ```
