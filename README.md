@@ -17,7 +17,7 @@ This is an implement of MAS on MXNet.
 
 1. clone the project
 ```shell
-$ git clone https://github.com/Canappeco/MAS-mxnet.git
+$ git clone https://github.com/mingzhang96/MAS-mxnet.git
 $ cd MAS-mxnet
 $ mkdir ckpt && mkdir data && mkdir reg_params
 ```
